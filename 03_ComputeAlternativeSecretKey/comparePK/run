@@ -1,0 +1,2 @@
+#!/bin/sh
+./comparePK 061550_mceliece3488_pk.txt output_sage_g.txt output_sage_a.txt > output.txt
