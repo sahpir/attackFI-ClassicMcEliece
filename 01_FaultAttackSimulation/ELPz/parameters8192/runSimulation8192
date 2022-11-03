@@ -1,0 +1,2 @@
+#!/bin/sh
+./kat kem/mceliece8192128 > kat_kem.int 9> kat_kem.rsp
